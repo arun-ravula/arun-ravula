@@ -1,19 +1,4 @@
-GITHUB PROFILE MAKEOVER
-Arun Kumar Ravula
-github.com/arun-ravula · Step-by-step upgrade guide
-
-1
-Update Your Bio (Name + Tagline)
-Settings → Profile
-🚀 Tech Enthusiast passionate about AI/ML, intelligent man–machine systems, scalable applications, and real-world problem solving.
-🎓 CS Graduate | AI/ML • Full-Stack • NLP Building smart apps that solve real problems. Open to entry-level & internship roles 🚀
-💡 Recruiters scan bios in 3 seconds. Keywords like "CS Graduate", "entry-level", "AI/ML" help them find you faster.
-2
-Create a Profile README (Most Important!)
-New repo: arun-ravula/arun-ravula
-⚠️ You don't have a profile README yet — this is the #1 thing recruiters look for. Create a repo named exactly arun-ravula and add a README.md with the content below.
-COPY THIS → paste into README.md
-Copy# Hi, I'm Arun Kumar Ravula 👋
+Hi, I'm Arun Kumar Ravula 👋
 
 🎓 **Computer Science Graduate** from Karimnagar, Telangana  
 🤖 Passionate about **AI/ML**, NLP, and building smart applications  
